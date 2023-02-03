@@ -1,0 +1,10 @@
+.ListComponent{
+  background: #888888;
+  padding: 5px;
+  .ListComponent__button{
+    background: cadetblue;
+    padding: 5px;
+
+    cursor: pointer;
+  }
+}
